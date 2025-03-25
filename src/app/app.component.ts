@@ -10,14 +10,14 @@ import { TasksComponent } from "./tasks/tasks.component";
   standalone: true,
   templateUrl: './app.component.html',
   styleUrl: './app.component.css',
-  imports: [HeaderComponent, UserComponent, TasksComponent],
+  imports: [HeaderComponent, UserComponent, TasksComponent]
 })
 export class AppComponent {
   users = DUMMY_USERS;
   selectedUserId?: string;
 
   get selectedUser() {
-    return this.users.find(user => user.id === this.selectedUserId)!;
+    return this.users.find((user) => user.id === this.selectedUserId);
   }
 
   onSelectUser(id: string) {
