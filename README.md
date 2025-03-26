@@ -12,6 +12,7 @@ Angular, HTML, CSS, Typescript
   Example: “ngModel” used in input tag for extracting user input values.
   “\*ngFor” directive is used in old angularjs version
   [We have to import FormsModule to use Directives]
+- Pipes used to transform template data. Like date from DatePipe import, used to work with date values.
 - String Interpolation
 - Property Binding
   bind element properties to dynamic values.
