@@ -17,3 +17,6 @@ Angular, HTML, CSS, Typescript
 - Property Binding
   bind element properties to dynamic values.
   For example, <img [src]="someSrc"> binds the src property of the underlying HTMLImageElement DOM object to the value stored in someSrc.
+- Services is a class that performs some operations that might be needed by one or more components.
+- In conjunction with Services we use Dependency Injection, which is used to share an instance of a class. Without this different instances of a class will have different data, which inturn creates a problem of managing the data.
+  [You tell which type of value you need and angular creates it and provides it as an argument]
