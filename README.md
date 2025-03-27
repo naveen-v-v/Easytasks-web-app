@@ -1,4 +1,4 @@
-# EasyTasks Angular App
+# EasyTasks Web App
 
 ### Tech Stack:
 
