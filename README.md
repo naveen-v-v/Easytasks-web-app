@@ -1,6 +1,6 @@
 # EasyTasks Web App
 
-### Tech Stack:
+<u> ### Tech Stack: </u>
 
 Angular, HTML, CSS, Typescript
 
@@ -15,6 +15,8 @@ Angular, HTML, CSS, Typescript
 #### Add Task Pop-up
 
 > <img src="https://github.com/naveen-v-v/Easytasks-web-app/blob/main/public/output_homescreen.png?raw=true" alt="logo"/>
+
+<hr>
 
 ### Concepts:
 
