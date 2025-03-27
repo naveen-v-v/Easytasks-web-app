@@ -4,6 +4,8 @@
 
 Angular, HTML, CSS, Typescript
 
+<hr>
+
 ### Website Output:
 
 #### Home Screen
