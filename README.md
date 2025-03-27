@@ -6,9 +6,10 @@ Angular, HTML, CSS, Typescript
 
 ### Website Output:
 
-https://github.com/naveen-v-v/Easytasks-web-app/blob/main/public/output_add_task.png?raw=true
-
-https://github.com/naveen-v-v/Easytasks-web-app/blob/main/public/output_homescreen.png?raw=true
+'Home Screen'
+<img src="https://github.com/naveen-v-v/Easytasks-web-app/blob/main/public/output_add_task.png?raw=true" alt="logo"/>
+'Add Task Pop-up'
+<img src="https://github.com/naveen-v-v/Easytasks-web-app/blob/main/public/output_homescreen.png?raw=true" alt="logo"/>
 
 ### Concepts:
 
